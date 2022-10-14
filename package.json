@@ -1,5 +1,26 @@
 {
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwm0304/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwm0304/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/kwm0304/Team-Generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
