@@ -152,7 +152,7 @@ const addManager = () => {
             default: false
         }
     ])
-};
+;
 
 //creates renderedoutput file and logs errors
 const writeFile = data => {
